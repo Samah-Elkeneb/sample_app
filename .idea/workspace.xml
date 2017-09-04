@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3de80dd-8fa8-4a4f-babb-8a4b6ae7a6ad" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/static_pages/about.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/static_pages/contact.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/static_pages_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/static_pages_controller.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
@@ -490,12 +492,12 @@
       <workItem from="1502390537831" duration="3900000" />
       <workItem from="1502901433338" duration="799000" />
       <workItem from="1502905193038" duration="1250000" />
-      <workItem from="1504528181652" duration="5968000" />
+      <workItem from="1504528181652" duration="6265000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19056000" />
+    <option name="totallyTimeSpent" value="19353000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
